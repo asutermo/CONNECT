@@ -1,0 +1,3 @@
+/Users/CONNECT/root/iOSClient/Connect/ConnectIPhone/Classes/SeachHandler.m: In function '-[SeachHandler doSearch:]':
+/Users/CONNECT/root/iOSClient/Connect/ConnectIPhone/Classes/SeachHandler.m:32: warning: conflicting types for '-(NSString *)doSearch:(NSString *)query'
+/Users/CONNECT/root/iOSClient/Connect/ConnectIPhone/Classes/SeachHandler.h:24: warning: previous declaration of '-(void)doSearch:(NSString *)query'
